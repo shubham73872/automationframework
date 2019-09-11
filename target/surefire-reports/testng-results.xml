@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="testCases.Test_Class" duration-ms="88582" started-at="2019-09-05T00:30:47 IST" finished-at="2019-09-05T00:32:15 IST">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="88582" started-at="2019-09-05T00:30:47 IST" finished-at="2019-09-05T00:32:15 IST">
+      <class name="testCases.Test_Class">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:testCases.Test_Class@1fdc050]" name="beforeSuite" is-config="true" duration-ms="3445" started-at="2019-09-05T00:30:43 IST" finished-at="2019-09-05T00:30:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:testCases.Test_Class@1fdc050]" name="beforeTest" is-config="true" duration-ms="18898" started-at="2019-09-05T00:30:47 IST" finished-at="2019-09-05T00:31:06 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="launchingFlipkart(java.lang.String, java.lang.String)[pri:0, instance:testCases.Test_Class@1fdc050]" name="launchingFlipkart" duration-ms="31691" started-at="2019-09-05T00:31:06 IST" data-provider="getDataFromDataProvider" finished-at="2019-09-05T00:31:37 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[singlashubham434@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Sajan@319]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchingFlipkart -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:testCases.Test_Class@1fdc050]" name="beforeTest" is-config="true" duration-ms="10385" started-at="2019-09-05T00:31:37 IST" finished-at="2019-09-05T00:31:48 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="launchingFlipkart(java.lang.String, java.lang.String)[pri:0, instance:testCases.Test_Class@1fdc050]" name="launchingFlipkart" duration-ms="27420" started-at="2019-09-05T00:31:48 IST" data-provider="getDataFromDataProvider" finished-at="2019-09-05T00:32:15 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[shubhamsingla80@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Sajan@320]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchingFlipkart -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:testCases.Test_Class@1fdc050]" name="afterTest" is-config="true" duration-ms="1232" started-at="2019-09-05T00:32:16 IST" finished-at="2019-09-05T00:32:17 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- testCases.Test_Class -->
+    </test> <!-- Command line test -->
+  </suite> <!-- testCases.Test_Class -->
+</testng-results>
